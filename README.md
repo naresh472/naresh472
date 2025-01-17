@@ -1,4 +1,4 @@
-![logo](https://github.com/naresh472/naresh472/blob/main/Naresh_temp.png)
+
 
 <h1 align="center">Hi 👋, I'm Naresh Teli</h1>
 <h3 align="center">A passionate Android developer from India</h3>
