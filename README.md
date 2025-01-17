@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **java, Kotlin, Data Structure,PHP,JavaScript**
+- 💬 Ask me about **java, Kotlin, Data Structure, PHP, JavaScript**
 
 - 📫 How to reach me **nareshteli185@gmail.com**
 
